@@ -60,7 +60,7 @@ From here, we can calculate the next state of the body using the equations:
 ```
 
 ```math
-\vec{v}_2 = \vec{v}_1 + \vec{a} \cdot \Delta t\\
+\vec{v}_2 = \vec{v}_1 + \vec{a} \cdot \Delta t
 ```
 
 ## Basic/Proficient/Advanced
