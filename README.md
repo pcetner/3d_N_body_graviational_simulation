@@ -29,7 +29,7 @@ Note how the 2 corresponding drops in total energy occour when the two bodies ar
 
 Below is an example of how decreasing the timestep of an Euler simulation can improve its accuracy.  The simulation uses the same initial state as above. The light blue line represents a very small timestep, and the orange line represents a larger timestep. Note that as the timestep decreases, the total energy of the system changes less. In the real world, there is negligible energy loss from planets moving throughout empty space. The below figure shows that as the timestep approaches zero, the accuracy of the simulation improves.
 
-![A demo of total energy changing less as the timestep decreases.](project2/demo_totalE_changing_PHOTO.PNG)
+![A demo of total energy changing less as the timestep decreases.](https://github.com/user-attachments/assets/8785b3eb-8573-4297-ae09-eb61ab6b724c)
 
 ## Theory
 
