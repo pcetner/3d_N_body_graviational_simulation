@@ -23,8 +23,7 @@ Given the 3 bodies described below, a simulation timestep of .04, and 2250 steps
  p3.pos = [-1,-1,3];
  p3.vel = [0 -.2 0.01];
 ```
-
-![A demo of three bodies.](project2/demo_3_bodies_PHOTO.PNG)
+![A demo of three bodies.](https://github.com/user-attachments/assets/84ceac17-abf0-4b64-91a5-5f7290c07608)
 
 Note how the 2 corresponding drops in total energy occour when the two bodies are very close to each other. This occours because the Euler method assumes that across a small timestep, acceleration can be seen as constant. The faster objects are accelerating over the given timestep, the worse the assumption that acceleration can be seen as constant becomes.
 
