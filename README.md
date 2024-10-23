@@ -1,4 +1,4 @@
-# `Gravitating Bodies`
+# `3d N-body gravitational simulation`
 
 A project exploring gravitational body simulation of n-number of bodies in three dimensions, accomplished via the Euler method. 
 
