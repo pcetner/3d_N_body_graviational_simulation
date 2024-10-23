@@ -62,7 +62,3 @@ From here, we can calculate the next state of the body using the equations:
 ```math
 \vec{v}_2 = \vec{v}_1 + \vec{a} \cdot \Delta t
 ```
-
-## Basic/Proficient/Advanced
-
-I believe my project would fall under proficient. It can simulate n-number of bodies in three dimensions, and only one of those is required to acheive proficient. Additionally, my project includes some distinctive graphs, such as position versus time in 3D space and energy (kinetic and potential) over time. It also demonstrates how adjusting the timestep improves the accuracy of the simulation. These graphs provide valuable insights into the movements and interactions of the simulated bodies.
